@@ -9,15 +9,16 @@ my last one was in rust
 - Specify if server: -s
 
 ### Playing
+First character can be any of the following but the second should be blank or 'l' or 'r'
 - t=top
 - l=left
 - r=right
 - b=bottom
 - c=center
-First character can be any of these but the second should be blank or 'l' or 'r'
 #### Example
 tl=top left
 c=center
 br=bottom right
 r=right
+
 
