@@ -160,7 +160,6 @@ int main(int argc, char **argv) {
     //ttt vars
     char board[3][3]={0};
 init:
-    //TODO fix rematch and empty move
     memset(board,'.',9);
 
     //call rand to pick first player
